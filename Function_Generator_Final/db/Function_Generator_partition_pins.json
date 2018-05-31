@@ -1,0 +1,37 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "outputsig[0]",
+					"strict" : false
+				},
+				{
+					"name" : "buttons[0]",
+					"strict" : false
+				},
+				{
+					"name" : "buttons[3]",
+					"strict" : false
+				},
+				{
+					"name" : "buttons[2]",
+					"strict" : false
+				},
+				{
+					"name" : "buttons[5]",
+					"strict" : false
+				},
+				{
+					"name" : "buttons[4]",
+					"strict" : false
+				},
+				{
+					"name" : "buttons[1]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

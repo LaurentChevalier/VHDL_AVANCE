@@ -1,0 +1,20 @@
+Fitter Status : Successful - Mon May 07 17:36:49 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : Function_Generator
+Top-level Entity Name : Function_Generator
+Family : Cyclone V
+Device : 5CSEMA4U23C6
+Timing Models : Final
+Logic utilization (in ALMs) : 1,716 / 15,880 ( 11 % )
+Total registers : 204
+Total pins : 18 / 314 ( 6 % )
+Total virtual pins : 0
+Total block memory bits : 0 / 2,764,800 ( 0 % )
+Total RAM Blocks : 0 / 270 ( 0 % )
+Total DSP Blocks : 4 / 84 ( 5 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1 / 5 ( 20 % )
+Total DLLs : 0 / 4 ( 0 % )

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file path="mapll_sim/mapll.vho" type="VHDL" />
+ <topLevel name="mapll" />
+ <deviceFamily name="cyclonev" />
+</simPackage>

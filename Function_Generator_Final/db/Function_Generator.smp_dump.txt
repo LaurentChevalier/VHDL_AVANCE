@@ -1,0 +1,48 @@
+
+State Machine - |Function_Generator|Square_Duty_wave:inst8|STATE
+Name STATE.ST2 STATE.ST1 STATE.ST0 
+STATE.ST0 0 0 0 
+STATE.ST1 0 1 1 
+STATE.ST2 1 0 1 
+
+State Machine - |Function_Generator|Square_wave:inst7|STATE
+Name STATE.ST2 STATE.ST1 STATE.ST0 
+STATE.ST0 0 0 0 
+STATE.ST1 0 1 1 
+STATE.ST2 1 0 1 
+
+State Machine - |Function_Generator|Debounce:inst6|state
+Name state.s2 state.s1 state.s0 
+state.s0 0 0 0 
+state.s1 0 1 1 
+state.s2 1 0 1 
+
+State Machine - |Function_Generator|Debounce:inst5|state
+Name state.s2 state.s1 state.s0 
+state.s0 0 0 0 
+state.s1 0 1 1 
+state.s2 1 0 1 
+
+State Machine - |Function_Generator|Debounce:inst4|state
+Name state.s2 state.s1 state.s0 
+state.s0 0 0 0 
+state.s1 0 1 1 
+state.s2 1 0 1 
+
+State Machine - |Function_Generator|Debounce:inst3|state
+Name state.s2 state.s1 state.s0 
+state.s0 0 0 0 
+state.s1 0 1 1 
+state.s2 1 0 1 
+
+State Machine - |Function_Generator|Debounce:inst2|state
+Name state.s2 state.s1 state.s0 
+state.s0 0 0 0 
+state.s1 0 1 1 
+state.s2 1 0 1 
+
+State Machine - |Function_Generator|Debounce:inst1|state
+Name state.s2 state.s1 state.s0 
+state.s0 0 0 0 
+state.s1 0 1 1 
+state.s2 1 0 1 
